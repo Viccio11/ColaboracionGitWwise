@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{745B62B6-20A1-4BB3-B2D2-1F25249A4877}" SchemaVersion="103">
+<WwiseDocument Type="WorkUnit" ID="{745B62B6-20A1-4BB3-B2D2-1F25249A4877}" SchemaVersion="110">
 	<AudioObjects>
 		<WorkUnit Name="Default Work Unit" ID="{745B62B6-20A1-4BB3-B2D2-1F25249A4877}" PersistMode="Standalone">
 			<ChildrenList>
@@ -21,7 +21,6 @@
 							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
-					<ObjectLists/>
 					<ActiveSourceList>
 						<ActiveSource Name="Cartoon, Misc, Cartoon Character, Voice, High Pitched, Pain, Grunts SND15445 copy" ID="{20F93F7A-C0AC-44D2-A489-73FDCD1F95B3}" Platform="Linked"/>
 					</ActiveSourceList>
