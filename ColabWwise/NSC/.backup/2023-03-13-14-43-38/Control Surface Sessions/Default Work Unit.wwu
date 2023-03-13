@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD:ColabWwise/NSC/.backup/2023-03-13-14-43-38/Control Surface Sessions/Default Work Unit.wwu
 <WwiseDocument Type="WorkUnit" ID="{F3A83B39-90EF-448C-B1FE-5BE8331F6311}" SchemaVersion="103">
+=======
+<WwiseDocument Type="WorkUnit" ID="{42FCC774-24F5-414F-AD67-9F5FA80761FD}" SchemaVersion="110">
+>>>>>>> 55af4d2fbff487befc11d7279555d97949d7fc37:ColabWwise/SesionCompartida/Control Surface Sessions/Default Work Unit.wwu
 	<ControlSurfaceSessions>
 		<WorkUnit Name="Default Work Unit" ID="{F3A83B39-90EF-448C-B1FE-5BE8331F6311}" PersistMode="Standalone">
 			<ChildrenList>

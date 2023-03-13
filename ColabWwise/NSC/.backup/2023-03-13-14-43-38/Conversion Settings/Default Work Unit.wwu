@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD:ColabWwise/NSC/.backup/2023-03-13-14-43-38/Conversion Settings/Default Work Unit.wwu
 <WwiseDocument Type="WorkUnit" ID="{B095AA85-54E9-45B3-A032-C08F48F68334}" SchemaVersion="103">
+=======
+<WwiseDocument Type="WorkUnit" ID="{7316D9B1-0A3E-44D0-8227-384348A87F54}" SchemaVersion="110">
+>>>>>>> 55af4d2fbff487befc11d7279555d97949d7fc37:ColabWwise/SesionCompartida/Conversion Settings/Default Work Unit.wwu
 	<Conversions>
 		<WorkUnit Name="Default Work Unit" ID="{B095AA85-54E9-45B3-A032-C08F48F68334}" PersistMode="Standalone">
 			<ChildrenList>
