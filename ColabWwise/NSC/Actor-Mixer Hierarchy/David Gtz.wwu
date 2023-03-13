@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F5D8ACBD-AE6B-4F91-AEF8-D555914E56E1}" SchemaVersion="110">
+	<AudioObjects>
+		<WorkUnit Name="David Gtz" ID="{F5D8ACBD-AE6B-4F91-AEF8-D555914E56E1}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Ghost_2" ID="{3282B38C-56C1-438A-BC90-D5C6397E36EA}" ShortID="142550497">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B095AA85-54E9-45B3-A032-C08F48F68334}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{5A514F9B-D2D9-43D9-BD5A-BF0D766AFCEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Ghost_2" ID="{B54A5B9F-B890-474B-906F-E28AE7790D5F}">
+							<Language>SFX</Language>
+							<AudioFile>Ghost_2.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="937021662"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Ghost_2" ID="{B54A5B9F-B890-474B-906F-E28AE7790D5F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
